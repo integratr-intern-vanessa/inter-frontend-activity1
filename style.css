@@ -39,3 +39,15 @@ header .header{
 .form .message a {
   color: #0fc664; text-decoration: none;
 }
+
+.registration-page{
+  width: 400px; padding: 12% 0 0; margin: auto;
+}
+
+/* .registration-page .form .registration{
+} */
+
+.form .registration {
+  position: center; background: #FFFFFF; max-width: 300px; padding: 50px; text-align: center;
+  
+}
