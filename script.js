@@ -15,7 +15,6 @@ if (first_name == ""){
         alert("Error: The Password field is required.");
 }else if(password.length < 10){
         alert("Error: The Password should be at least 10 characters long. Use a combination of letters (A-z), numbers(O-9), and symbols.");
-
 }else if (password != confirmPassword) {
         alert("Error: Password should be the same");
 }else{
